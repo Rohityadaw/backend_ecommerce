@@ -11,5 +11,9 @@ public class NoticeController {
     String getAll() {
         return "Rohit";
     }
+    @PostMapping("/add/users")
+    String add() {
+        return "Rohit";
+    }
 //    List<String> addNotice()
 }
