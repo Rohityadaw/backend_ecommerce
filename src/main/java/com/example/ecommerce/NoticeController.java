@@ -15,5 +15,4 @@ public class NoticeController {
     String add() {
         return "Rohit";
     }
-//    List<String> addNotice()
 }
